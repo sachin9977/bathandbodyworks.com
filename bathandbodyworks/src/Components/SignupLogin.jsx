@@ -7,6 +7,7 @@ import { Input } from '@chakra-ui/react';
 import { InputGroup } from '@chakra-ui/react';
 import { InputRightElement } from '@chakra-ui/react';
 import { Spacer } from '@chakra-ui/react';
+import Footer  from './Footer';
 
 function SignupLogin() {
     const [show, setShow] = React.useState(false)
@@ -75,6 +76,7 @@ function SignupLogin() {
       <br />
       <Text fontSize='16' >QUESTION?</Text>
       <Text fontSize='15' >We’re here for you! Call us at 1-800-756-5005.</Text>
+      <Footer/>
     </div>
   )
 }
