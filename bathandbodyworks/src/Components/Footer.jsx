@@ -8,6 +8,7 @@ import {
   Text,
   InputGroup,
   InputRightAddon,
+  Link,
 } from "@chakra-ui/react";
 import React from "react";
 import { Image } from "@chakra-ui/react";
@@ -49,7 +50,8 @@ function Footer() {
             GET CONNETCTED
           </Text>
           <Box display="flex">
-            <Box
+            <Link
+              href="https://www.facebook.com/bathandbodyworks"
               bg="#3460a1"
               marginRight="4"
               height="30px"
@@ -62,8 +64,9 @@ function Footer() {
                 marginTop="1.5"
                 src="https://cdn-fsly.yottaa.net/5d669b394f1bbf7cb77826ae/www.bathandbodyworks.com/v~4b.219/on/demandware.static/Sites-BathAndBodyWorks-Site/-/en_US/v1664444782464/images/svg-icons/Social-fb-reverse.svg?yocs=o_s_"
               ></Image>
-            </Box>
-            <Box
+            </Link>
+            <Link
+            href="https://twitter.com/bathbodyworks"
               bg="#28aae1"
               marginRight="4"
               height="30px"
@@ -76,8 +79,9 @@ function Footer() {
                 marginTop="1.5"
                 src="https://cdn-fsly.yottaa.net/5d669b394f1bbf7cb77826ae/www.bathandbodyworks.com/v~4b.219/on/demandware.static/Sites-BathAndBodyWorks-Site/-/en_US/v1664444782464/images/svg-icons/Social-twitter-reverse.svg?yocs=o_s_"
               ></Image>
-            </Box>
-            <Box
+            </Link>
+            <Link
+            href="https://www.instagram.com/bathandbodyworks/"
               bg="#35648b"
               marginRight="4"
               height="30px"
@@ -90,8 +94,9 @@ function Footer() {
                 marginTop="1.5"
                 src="https://cdn-fsly.yottaa.net/5d669b394f1bbf7cb77826ae/www.bathandbodyworks.com/v~4b.219/on/demandware.static/Sites-BathAndBodyWorks-Site/-/en_US/v1664444782464/images/svg-icons/Social-twitter-reverse.svg?yocs=o_s_"
               ></Image>
-            </Box>
-            <Box
+            </Link>
+            <Link
+            href="https://www.tiktok.com/@bathandbodyworks"
               bg="#000000"
               marginRight="4"
               height="30px"
@@ -104,8 +109,9 @@ function Footer() {
                 marginTop="1.5"
                 src="https://cdn-fsly.yottaa.net/5d669b394f1bbf7cb77826ae/www.bathandbodyworks.com/v~4b.219/on/demandware.static/Sites-BathAndBodyWorks-Site/-/en_US/v1664444782464/images/svg-icons/Social-tiktok-reverse.svg?yocs=o_s_"
               ></Image>
-            </Box>
-            <Box
+            </Link>
+            <Link
+            href="https://www.youtube.com/user/bathandbodyworks"
               bg="#ee3138"
               marginRight="4"
               height="30px"
@@ -118,8 +124,9 @@ function Footer() {
                 marginTop="1.5"
                 src="https://cdn-fsly.yottaa.net/5d669b394f1bbf7cb77826ae/www.bathandbodyworks.com/v~4b.219/on/demandware.static/Sites-BathAndBodyWorks-Site/-/en_US/v1664444782464/images/svg-icons/Social-youtube-reverse.svg?yocs=o_s_"
               ></Image>
-            </Box>
-            <Box
+            </Link>
+            <Link
+            href="https://www.pinterest.com/bathbodyworks/"
               bg="#ce2129"
               marginRight="4"
               height="30px"
@@ -132,7 +139,7 @@ function Footer() {
                 marginTop="1.5"
                 src="https://cdn-fsly.yottaa.net/5d669b394f1bbf7cb77826ae/www.bathandbodyworks.com/v~4b.219/on/demandware.static/Sites-BathAndBodyWorks-Site/-/en_US/v1664444782464/images/svg-icons/Social-pinterest-reverse.svg?yocs=o_s_"
               ></Image>
-            </Box>
+            </Link>
           </Box>
         </Box>
         <Box>
