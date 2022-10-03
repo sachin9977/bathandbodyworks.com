@@ -127,7 +127,7 @@ function HomePage() {
         </Box>
         <Button _hover={{ color: 'black',  bg:'#f2f2f2' }} bg='#333333' color='white' borderRadius='none' >GIFTS FOR EVERYONE</Button>
         <Box marginTop='60px'  height='300px' >
-          <Text fontSize='25px' fontWeight='bold' paddingBottom='5'  >SHOP BY CATEGORY</Text>
+          <Text fontSize='25px' fontWeight='bold' paddingBottom='5'  >MORE GOOD THINGS, THIS WAY</Text>
        <Box  textAlign='center' display='flex' scrollBehavior='auto' >
         <Box  paddingTop='20px' width='240px' height='200px' >
         <Image marginLeft='40px' height='140px' src='https://cdn-fsly.yottaa.net/5d669b394f1bbf7cb77826ae/www.bathandbodyworks.com/v~4b.219/on/demandware.static/-/Sites-BathAndBodyWorks-Library/default/dwb9d60d44/images/Fall2022/boc-launch-prospects_vn_0.png?yocs=o_s_'></Image>
