@@ -12,7 +12,7 @@ import { Link } from "react-router-dom";
 
 function SignupLogin() {
   const [show, setShow] = React.useState(false);
-  const handleClick = () => setShow(!show);
+  const handleClick = () => setShow(!show); //for password
 
   return (
     <div>
