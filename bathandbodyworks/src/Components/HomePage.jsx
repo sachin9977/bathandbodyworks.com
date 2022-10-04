@@ -118,6 +118,10 @@ function HomePage() {
         <Box marginY='20px' marginX='60px' marginTop='80px'   >
         <Image src='https://cdn-fsly.yottaa.net/5d669b394f1bbf7cb77826ae/www.bathandbodyworks.com/v~4b.219/on/demandware.static/-/Sites-BathAndBodyWorks-Library/default/dwda661154/images/Fall2022/xcat_stl-givelove_fa1_hb%E2%80%8B.jpg?yocs=s_' ></Image>
         </Box>
+        
+
+
+        
         <Box marginBottom='20px' justifyContent='space-evenly' display='flex' >
         <Button _hover={{ color: 'black',  bg:'#f2f2f2' }} bg='#333333' color='white' borderRadius='none' >TOP GIFT PICKS</Button>
         <Button _hover={{ color: 'black',  bg:'#f2f2f2' }} bg='#333333' color='white' borderRadius='none' >GIFT SETS</Button>
