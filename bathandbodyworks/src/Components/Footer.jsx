@@ -4,7 +4,6 @@ import {
   Divider,
   FormLabel,
   Input,
-  Spacer,
   Text,
   InputGroup,
   InputRightAddon,
